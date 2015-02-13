@@ -13,4 +13,13 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= agency.js
+//= bootstrap.js
+//= jquery.js
+//= cbpAnimatedHeader.min.js
+//= cbpAnimatedHeader.js
+//= bootstrap.min.js
+//= classie.js
+//= contact_me.js
+//= jqBootstrapValidation.js
 //= require_tree .
