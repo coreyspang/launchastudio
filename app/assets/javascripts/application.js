@@ -14,6 +14,7 @@
 //= require bootstrap
 //= require jquery
 //= require jquery_ujs
+//= require jquery.turbolinks
 //= require turbolinks
 //= agency.js
 //= bootstrap.js
