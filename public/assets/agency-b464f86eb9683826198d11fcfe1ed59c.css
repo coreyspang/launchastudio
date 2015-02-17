@@ -4,6 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -176,7 +177,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #fff;
+    color: #fed136;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -207,7 +208,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 800;
+    font-weight: 400;
     letter-spacing: 1px;
     color: #fff;
 }
@@ -254,7 +255,6 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink {
         padding: 10px 0;
         background-color: #222;
-        opacity: .8;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -264,7 +264,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #5C5C5C;
     background-attachment: scroll;
     background-image: url(/assets/header-bg.jpg);
     background-position: center center;
@@ -273,12 +273,6 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
-
-header span.glyphicon-menu-down {
-    font-size: 7em;
-    line-height: 40px;
-    color: #fff;
 }
 
 header .intro-text {

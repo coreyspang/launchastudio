@@ -4,6 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -276,7 +277,7 @@ header {
 }
 
 header span.glyphicon-menu-down {
-    font-size: 7em;
+    font-size: 5em;
     line-height: 40px;
     color: #fff;
 }
