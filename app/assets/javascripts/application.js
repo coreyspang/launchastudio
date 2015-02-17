@@ -10,15 +10,13 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require bootstrap
 //= require jquery
 //= require turbolinks
 //= agency.js
 //= jquery.js
 //= cbpAnimatedHeader.min.js
 //= cbpAnimatedHeader.js
-//= bootstrap.min.js
 //= classie.js
 //= contact_me.js
 //= jqBootstrapValidation.js
-//= require_tree.
+//= bootstrap.min.js
