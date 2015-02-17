@@ -4,6 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -175,11 +176,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-     width: 80px;
-     height: 41px;
-     background-image: url(assets/launchastudiologo.png);
-     background-repeat: no-repeat;
-     margin: 5px 0 0 5px;
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    color: #fff;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -246,7 +244,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default .navbar-brand {
         width: 200px;
         height: 95px;
-        background-image: url(assets/launchastudiologo.png);
+        background-image: url(assets/images/Launch a Studio Logo.png);
         background-repeat: no-repeat;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
