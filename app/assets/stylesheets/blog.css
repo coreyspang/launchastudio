@@ -1,5 +1,5 @@
 /*
- * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * This is a manifest file that'll be compiled into blog.css, which will include all the files
  * listed below.
  *
  * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
@@ -11,9 +11,9 @@
  * file per style scope.
  *
  *= require bootstrap
- *= font-awesome.min.css
- *= agency.css
- *= font-awesome.css
+ *= clean-blog-bootstrap.css
+ *= clean-blog-bootstrap.min.css
+ *= clean-blog.css
+ *= clean-blog.min.css
  *= require_self
- *= require_tree .
  */
