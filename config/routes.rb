@@ -1,7 +1,8 @@
 Rails.application.routes.draw do
 
 
-  get 'blog/index'
+  get 'blog' => 'blog#blog'
+  get 'blog/sample_post'
 
   root 'application#home'
 
