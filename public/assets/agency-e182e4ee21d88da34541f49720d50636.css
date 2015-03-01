@@ -4,6 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -300,7 +301,7 @@ header .intro-text .intro-heading {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 40px;
-    font-weight: 600;
+    font-weight: 400;
     line-height: 50px;
 }
 
@@ -323,7 +324,7 @@ header .intro-text .intro-heading {
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 60px;
-        font-weight: 600;
+        font-weight: 400;
         line-height: 70px;
     }
 }
