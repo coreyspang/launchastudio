@@ -4,6 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -19,10 +20,6 @@ body {
 
 .fa {
     color: #2d3c48;
-}
-
-.social-buttons .fa {
-    color: #fff;
 }
 
 .fa-plus {
@@ -47,7 +44,7 @@ a.active {
 }
 
 a {
-    color: #7f8c8d;
+    color: #fed136;
 }
 
 a:hover,
@@ -513,7 +510,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #2d3c48;
+    background-color: #fed136;
 }
 
 .timeline>li .timeline-image h4 {
@@ -775,11 +772,11 @@ ul.social-buttons li a {
     transition: all .3s;
 }
 
-/*ul.social-buttons li a:hover,
+ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
     background-color: #fed136;
-}*/
+}
 
 .btn:focus,
 .btn:active,

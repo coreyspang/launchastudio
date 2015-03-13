@@ -4,6 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -47,7 +48,7 @@ a.active {
 }
 
 a {
-    color: #7f8c8d;
+    color: #fed136;
 }
 
 a:hover,
