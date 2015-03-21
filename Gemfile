@@ -19,6 +19,8 @@ gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 
 gem 'figaro'
 
+gem 'letter_opener', group: :development
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 gem 'jquery-turbolinks'
