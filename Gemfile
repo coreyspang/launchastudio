@@ -21,6 +21,10 @@ gem 'figaro'
 
 gem 'letter_opener', group: :development
 
+gem 'activeadmin', github: 'gregbell/active_admin'
+
+gem 'devise'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 gem 'jquery-turbolinks'
