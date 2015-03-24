@@ -9,6 +9,8 @@ Rails.application.routes.draw do
 
   resources :charges
 
+  resources :product, only: [:show]
+
   resources :purchases, only: [:show]
 
 
